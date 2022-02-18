@@ -16,6 +16,13 @@ The following folders has variated purposes that contains necessary information 
 
 ### Testing areas
 
+You can check our [testing areas](TESTING_AREAS.md)
+
+Feel free to [open an issue]() and suggest a new testing area with a [testing area template]()
+
+### Testing lifecycle
+
+You can check the [testing lifecycle](TESTING_AREAS.md) to understand more on how our testing process goes live and all procedures we roll out to test and validate Rocky Linux.
 
 
 ## Stay tunned
